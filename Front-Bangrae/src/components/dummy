@@ -1,0 +1,241 @@
+<div class="sec02_slider sec02_slider01">
+  <h3 class="sec_tit">행복한 빙그레의 맛!</h3>
+  <!-- 행복한 빙그레의 맛 -->
+
+  <div class="prev sec02_arrow" style="">
+    <img src="/img/icon/prev_arrow.png" alt="binggrae" />
+  </div>
+  <div class="next sec02_arrow" style="">
+    <img src="/img/icon/next_arrow.png" alt="binggrae" />
+  </div>
+
+  <ul class="sec02_slider01_list slick-initialized slick-slider slick-dotted">
+    <div class="slick-list">
+      <div
+        class="slick-track"
+        style="opacity: 1; width: 1090px; transform: translate3d(0px, 0px, 0px);"
+      >
+        <div
+          class="slick-slide slick-current slick-active"
+          data-slick-index="0"
+          aria-hidden="false"
+          role="tabpanel"
+          id="slick-slide00"
+          aria-describedby="slick-slide-control00"
+          style="width: 218px;"
+        >
+          <div>
+            <li
+              class="top_bottom img_ani sec02_li01 img_aniload"
+              onclick="location.href='/product/list?type=icecream'"
+              style="width: 100%; display: inline-block;"
+            >
+              <div class="img_box">
+                <img src="/img/main/sec02_img01.png" alt="binggrae" />
+              </div>
+              <a
+                href="/product/list?type=icecream"
+                class="txt_box"
+                tabindex="0"
+              >
+                <span>아이스크림</span>
+                <span class="hover_txt font_poppin">VIEW MORE</span>
+              </a>
+            </li>
+          </div>
+          <div>
+            <li
+              class="top_bottom img_ani sec02_li02 img_aniload"
+              onclick="location.href='/product/list?type=milk'"
+              style="width: 100%; display: inline-block;"
+            >
+              <div class="img_box">
+                <img src="/img/main/sec02_img02.png" alt="binggrae" />
+              </div>
+              <a href="/product/list?type=milk" class="txt_box" tabindex="0">
+                <span>우유/치즈</span>
+                <span class="hover_txt font_poppin">VIEW MORE</span>
+              </a>
+            </li>
+          </div>
+        </div>
+        <div
+          class="slick-slide slick-active"
+          data-slick-index="1"
+          aria-hidden="false"
+          role="tabpanel"
+          id="slick-slide01"
+          style="width: 218px;"
+        >
+          <div>
+            <li
+              class="top_bottom img_ani sec02_li03 img_aniload"
+              onclick="location.href='/product/list?type=yogurt'"
+              style="width: 100%; display: inline-block;"
+            >
+              <div class="img_box">
+                <img src="/img/main/sec02_img03.png" alt="binggrae" />
+              </div>
+              <a href="/product/list?type=yogurt" class="txt_box" tabindex="0">
+                <span>발효유</span>
+                <span class="hover_txt font_poppin">VIEW MORE</span>
+              </a>
+            </li>
+          </div>
+          <div>
+            <li
+              class="top_bottom img_ani sec02_li04 img_aniload"
+              onclick="location.href='/product/list?type=coffee'"
+              style="width: 100%; display: inline-block;"
+            >
+              <div class="img_box">
+                <img src="/img/main/sec02_img04.png" alt="binggrae" />
+              </div>
+              <a href="/product/list?type=coffee" class="txt_box" tabindex="0">
+                <span>커피</span>
+                <span class="hover_txt font_poppin">VIEW MORE</span>
+              </a>
+            </li>
+          </div>
+        </div>
+        <div
+          class="slick-slide slick-active"
+          data-slick-index="2"
+          aria-hidden="false"
+          role="tabpanel"
+          id="slick-slide02"
+          style="width: 218px;"
+        >
+          <div>
+            <li
+              class="top_bottom img_ani sec02_li05 img_aniload"
+              onclick="location.href='/product/list?type=beverage'"
+              style="width: 100%; display: inline-block;"
+            >
+              <div class="img_box">
+                <img src="/img/main/sec02_img05.png" alt="binggrae" />
+              </div>
+              <a
+                href="/product/list?type=beverage"
+                class="txt_box"
+                tabindex="0"
+              >
+                <span>음료</span>
+                <span class="hover_txt font_poppin">VIEW MORE</span>
+              </a>
+            </li>
+          </div>
+          <div>
+            <li
+              class="top_bottom img_ani sec02_li06 img_aniload"
+              onclick="location.href='/product/list?type=juice'"
+              style="width: 100%; display: inline-block;"
+            >
+              <div class="img_box">
+                <img src="/img/main/sec02_img06.png" alt="binggrae" />
+              </div>
+              <a href="/product/list?type=juice" class="txt_box" tabindex="0">
+                <span>주스</span>
+                <span class="hover_txt font_poppin">VIEW MORE</span>
+              </a>
+            </li>
+          </div>
+        </div>
+        <div
+          class="slick-slide"
+          data-slick-index="3"
+          aria-hidden="true"
+          tabindex="-1"
+          role="tabpanel"
+          id="slick-slide03"
+          aria-describedby="slick-slide-control01"
+          style="width: 218px;"
+        >
+          <div>
+            <li
+              class="sec02_li07"
+              onclick="location.href='/product/list?type=snack'"
+              style="width: 100%; display: inline-block;"
+            >
+              <div class="img_box">
+                <img src="/img/main/sec02_img07.png" alt="binggrae" />
+              </div>
+              <a href="/product/list?type=snack" class="txt_box" tabindex="-1">
+                <span>스낵/디저트</span>
+                <span class="hover_txt font_poppin">VIEW MORE</span>
+              </a>
+            </li>
+          </div>
+          <div>
+            <li
+              class="sec02_li08"
+              onclick="location.href='/product/list?type=health'"
+              style="width: 100%; display: inline-block;"
+            >
+              <div class="img_box">
+                <img src="/img/main/sec02_img08.png" alt="binggrae" />
+              </div>
+              <a href="/product/list?type=health" class="txt_box" tabindex="-1">
+                <span>건강지향식품</span>
+                <span class="hover_txt font_poppin">VIEW MORE</span>
+              </a>
+            </li>
+          </div>
+        </div>
+        <div
+          class="slick-slide"
+          data-slick-index="4"
+          aria-hidden="true"
+          tabindex="-1"
+          role="tabpanel"
+          id="slick-slide04"
+          style="width: 218px;"
+        >
+          <div>
+            <li
+              class="sec02_li09"
+              onclick="location.href='/product/list?type=export'"
+              style="width: 100%; display: inline-block;"
+            >
+              <div class="img_box">
+                <img src="/img/main/sec02_img09.png" alt="binggrae" />
+              </div>
+              <a href="/product/list?type=export" class="txt_box" tabindex="-1">
+                <span>수출제품</span>
+                <span class="hover_txt font_poppin">VIEW MORE</span>
+              </a>
+            </li>
+          </div>
+          <div></div>
+        </div>
+      </div>
+    </div>
+    <ul class="slick-dots" style="display: block;" role="tablist">
+      <li class="slick-active" role="presentation">
+        <button
+          type="button"
+          role="tab"
+          id="slick-slide-control00"
+          aria-controls="slick-slide00"
+          aria-label="1 of 2"
+          tabindex="0"
+          aria-selected="true"
+        >
+          1
+        </button>
+      </li>
+      <li role="presentation">
+        <button
+          type="button"
+          role="tab"
+          id="slick-slide-control01"
+          aria-controls="slick-slide03"
+          aria-label="2 of 2"
+          tabindex="-1"
+        >
+          2
+        </button>
+      </li>
+    </ul>
+  </ul>
+</div>
