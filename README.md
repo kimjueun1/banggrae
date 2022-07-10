@@ -24,7 +24,7 @@
 
 ## 백로그
 
-##1week
+## 1week
 ![image](https://user-images.githubusercontent.com/86585240/178148434-94de47fa-4bc4-494c-b61d-ffaab9f66cc7.png)
 ![image](https://user-images.githubusercontent.com/86585240/178148443-3f1633eb-b4db-4010-adff-07cbf1a9f9a0.png)
 ![image](https://user-images.githubusercontent.com/86585240/178148456-f7fab275-d49e-4512-aefd-d135c6018890.png)
