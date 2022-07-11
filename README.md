@@ -20,10 +20,6 @@
 | Formatting      | <img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black">                                 |
 | DB              | <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=black"> |
 
-## 기획서
-
-## 백로그
-
 ## 1week
 ![image](https://user-images.githubusercontent.com/86585240/178148434-94de47fa-4bc4-494c-b61d-ffaab9f66cc7.png)
 ![image](https://user-images.githubusercontent.com/86585240/178148443-3f1633eb-b4db-4010-adff-07cbf1a9f9a0.png)
